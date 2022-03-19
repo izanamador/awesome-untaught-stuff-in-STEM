@@ -1,16 +1,32 @@
 # Awesome Untaught stuff in STEM
-<img src="img\1024px-Mecha_workaround.svg.png" width="300" height="300">
+<p align="center">
+  <img src="img\1024px-Mecha_workaround.svg.png" width="250" height="250>
+</p>
 
+<!-- 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets2.lottiefiles.com/packages/lf20_DVSwGQ.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+<lottie-player src="https://assets2.lottiefiles.com/packages/lf20_DVSwGQ.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player> -->
 
 -------------------
-_These are a bunch of resources which i don't really know why, were not mentioned during aforementioned courses._
------------
-----------------------
+<p style="text-align: center;"> 
+<i>These are a bunch of resources which i don't really know why, were not mentioned during aforementioned courses.</i>
+</p>
+
+-------------------
+
+<p align="center">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/izanamador/awesome-untaught-stuff-in-STEM?color=blue&style=plastic">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/izanamador/awesome-untaught-stuff-in-STEM?color=red&style=plastic">
+</p>
+
+
 <a name="toc"></a>Table of Contents
------------------
-<details open><summary><sup>Hide</sup>/<sub>Show</sub></summary><br/>
+-------------------
+<details open>
+  <summary>
+    <sup>Hide</sup>/<sub>Show</sub>
+    </summary>
+    <br/>
 
 [1st Year](#1-year)
 
@@ -54,6 +70,11 @@ _These are a bunch of resources which i don't really know why, were not mentione
   * [Electronic Instrumentation](#electronic_instrumentation)
   
 [4th Year](#4-year)
+
+</details>
+
+
+---
 
 
 ## <a name="algebra"></a>Algebra
