@@ -1,7 +1,8 @@
 # Awesome Untaught stuff in STEM
 <p align="center">
-  <img src="img\1024px-Mecha_workaround.svg.png" width="250" height="250>
+   <img src="img\1024px-Mecha_workaround.svg.png" width="250" height="250">
 </p>
+
 
 -------------------
 <p style="text-align: center;"> 
